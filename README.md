@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vhm205
 - 👀 I’m interested in tech, coding, workout, touring, Kick-Boxing, and something new...
-- 🌱 I’m currently learning Technology, Coding skills
 - 📫 How to reach me:
 - => facebook: (https://fb.com/vhm205)
 - => Twitter: (https://twitter.com/vhm102)
