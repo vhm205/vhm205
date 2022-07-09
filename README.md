@@ -3,15 +3,15 @@
 ### Something about me:
 
 - 💻 I’m a Web Developer
-- 👀 I’m interested in tech, workout, touring, Guitar, muay,...
+- 👀 I’m interested in tech, workout, touring, guitar, muay,...
 
 ### How to reach me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/vhm205/" target="blank">
+    <a href="https://www.linkedin.com/in/vhm205/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="[/in/bhavin-virani-2a14441b7/](https://www.linkedin.com/in/vhm205/)" height="30" width="120" />
     </a>
-    <a href="https://twitter.com/vhm102" target="blank">
+    <a href="https://twitter.com/vhm102" target="_blank">
         <img align="center" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="[BhavinVirani45](twitter.com/vhm102)" height="30" width="100" />
     </a>
     <!-- <a href="https://dev.to/bhavinvirani" target="blank">
