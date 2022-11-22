@@ -52,10 +52,6 @@
 </p>
 
 <hr />
-
-daily.dev BOOKMARKS:START
-daily.dev BOOKMARKS:END
-
 <br />
 
 <details>
@@ -82,3 +78,6 @@ vhm205/vhm205 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 [![vhm205](dino.gif)](https://127.0.0.1)
 -->
+
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
