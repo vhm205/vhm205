@@ -52,6 +52,10 @@
 </p>
 
 <hr />
+
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
+
 <br />
 
 <details>
