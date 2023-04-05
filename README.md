@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=CF29F7&lines=Hi%2C+I%E2%80%99m+%40vhm.tech)](https://git.io/typing-svg)
 
+[![wakatime](https://wakatime.com/badge/github/vhm205/vhm205.svg)](https://wakatime.com/badge/github/vhm205/vhm205)
+
 ### Something about me:
 
 - 💻 I’m a Web Developer
