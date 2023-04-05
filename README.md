@@ -5,7 +5,7 @@
 ### Something about me:
 
 - 💻 I’m a Web Developer
-- 👀 I’m interested in tech, workout, touring, guitar, muay,...
+- 👀 I’m interested in tech, calisthenics, touring, guitar, muay,...
 
 ### How to reach me:
 
