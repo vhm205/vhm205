@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=CF29F7&lines=Hi%2C+I%E2%80%99m+%40vhm.tech)](https://git.io/typing-svg)
 
-[![wakatime](https://wakatime.com/badge/github/vhm205/vhm205.svg)](https://wakatime.com/badge/github/vhm205/vhm205)
-
-![](https://komarev.com/ghpvc/?username=vhm205&color=brightgreen)
+[![wakatime](https://wakatime.com/badge/github/vhm205/vhm205.svg)](https://wakatime.com/badge/github/vhm205/vhm205) ![](https://komarev.com/ghpvc/?username=vhm205&color=brightgreen)
 
 ### Something about me:
 
