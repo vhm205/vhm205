@@ -2,6 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/github/vhm205/vhm205.svg)](https://wakatime.com/badge/github/vhm205/vhm205)
 
+![](https://komarev.com/ghpvc/?username=vhm205&color=brightgreen)
+
 ### Something about me:
 
 - 💻 I’m a Web Developer
