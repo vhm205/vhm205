@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=CF29F7&lines=Hi%2C+I%E2%80%99m+%40vhm.tech)](https://git.io/typing-svg)
-
-[![wakatime](https://wakatime.com/badge/github/vhm205/vhm205.svg)](https://wakatime.com/badge/github/vhm205/vhm205) ![](https://komarev.com/ghpvc/?username=vhm205&color=brightgreen)
-
 <a href="https://app.daily.dev/vhm205" target="_blank">
     <img src="https://api.daily.dev/devcards/aa5f2eb325d14d8580e9eb61982533c6.png?r=1l6" width="256" align="right" alt="Vũ Huỳnh Minh's Dev Card"/>
 </a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=CF29F7&lines=Hi%2C+I%E2%80%99m+%40vhm.tech)](https://git.io/typing-svg)
+
+[![wakatime](https://wakatime.com/badge/github/vhm205/vhm205.svg)](https://wakatime.com/badge/github/vhm205/vhm205) ![](https://komarev.com/ghpvc/?username=vhm205&color=brightgreen)
 
 ### Something about me:
 
@@ -17,8 +17,8 @@
     <a href="https://www.linkedin.com/in/vhm205/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="[/in/bhavin-virani-2a14441b7/](https://www.linkedin.com/in/vhm205/)" height="30" width="120" />
     </a>
-    <a href="https://twitter.com/vhm102" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="[BhavinVirani45](twitter.com/vhm102)" height="30" width="100" />
+    <a href="https://twitter.com/vhm205" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="[BhavinVirani45](twitter.com/vhm205)" height="30" width="100" />
     </a>
     <!-- <a href="https://dev.to/bhavinvirani" target="blank">
         <img align="center"  src="https://img.shields.io/badge/dev-%2324292e.svg?&style=for-the-badge&logo=devdotto&logoColor=white" alt="[/bhavinvirani](https://dev.to/bhavinvirani)" height="30" width="100" />
