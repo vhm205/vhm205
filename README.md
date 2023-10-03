@@ -2,6 +2,10 @@
 
 [![wakatime](https://wakatime.com/badge/github/vhm205/vhm205.svg)](https://wakatime.com/badge/github/vhm205/vhm205) ![](https://komarev.com/ghpvc/?username=vhm205&color=brightgreen)
 
+<a href="https://app.daily.dev/vhm205" target="_blank">
+    <img src="https://api.daily.dev/devcards/aa5f2eb325d14d8580e9eb61982533c6.png?r=1l6" width="400" align="right" alt="Vũ Huỳnh Minh's Dev Card"/>
+</a>
+
 ### Something about me:
 
 - 💻 I’m a Web Developer
@@ -9,7 +13,7 @@
 
 ### How to reach me:
 
-<p align="left">
+<div align="left">
     <a href="https://www.linkedin.com/in/vhm205/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="[/in/bhavin-virani-2a14441b7/](https://www.linkedin.com/in/vhm205/)" height="30" width="120" />
     </a>
@@ -22,7 +26,7 @@
     <!-- <a href="https://instagram.com/vhm.205" target="blank">
         <img align="center"  src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="[/bhavinvirani](https://dev.to/bhavinvirani)" height="30" />
     </a> -->
-</p>
+</div>
 
 <br />
 <hr />
@@ -56,13 +60,15 @@
 <hr />
 <br />
 
-<details>
+<!-- <details>
   <summary>✨&nbsp; Dev Card &nbsp;✨</summary>
   <br />
 
-  <a href="https://app.daily.dev/vhm205"><img src="https://api.daily.dev/devcards/aa5f2eb325d14d8580e9eb61982533c6.png?r=1l6" width="400" alt="Vũ Huỳnh Minh's Dev Card"/></a>
+  <a href="https://app.daily.dev/vhm205" target="_blank">
+    <img src="https://api.daily.dev/devcards/aa5f2eb325d14d8580e9eb61982533c6.png?r=1l6" width="400" align="right" alt="Vũ Huỳnh Minh's Dev Card"/>
+  </a>
 
-</details>
+</details> -->
 
 <details>
     <summary>✨&nbsp; Git Stats &nbsp;✨</summary>
