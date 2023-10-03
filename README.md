@@ -60,7 +60,7 @@
   <summary>✨&nbsp; Dev Card &nbsp;✨</summary>
   <br />
 
-  <a href="https://app.daily.dev/vhm102205"><img src="https://api.daily.dev/devcards/aa5f2eb325d14d8580e9eb61982533c6.png?r=qxf" width="300" alt="Vũ Huỳnh Minh's Dev Card"/></a>
+  <a href="https://app.daily.dev/vhm205"><img src="https://api.daily.dev/devcards/aa5f2eb325d14d8580e9eb61982533c6.png?r=1l6" width="400" alt="Vũ Huỳnh Minh's Dev Card"/></a>
 
 </details>
 
