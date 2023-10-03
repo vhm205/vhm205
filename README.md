@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/github/vhm205/vhm205.svg)](https://wakatime.com/badge/github/vhm205/vhm205) ![](https://komarev.com/ghpvc/?username=vhm205&color=brightgreen)
 
 <a href="https://app.daily.dev/vhm205" target="_blank">
-    <img src="https://api.daily.dev/devcards/aa5f2eb325d14d8580e9eb61982533c6.png?r=1l6" width="400" align="right" alt="Vũ Huỳnh Minh's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/aa5f2eb325d14d8580e9eb61982533c6.png?r=1l6" width="256" align="right" alt="Vũ Huỳnh Minh's Dev Card"/>
 </a>
 
 ### Something about me:
