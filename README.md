@@ -10,7 +10,8 @@
 
 - 💻 I’m a Web Developer
 - 👀 I’m interested in tech, calisthenics, touring, guitar, muay,...
-- Resume: <a href="https://vhm.mytechfolio.live/"> Contact me </a>
+- Resume: <a href="https://vhm-cv.vercel.app/"> Contact me </a>
+<!-- - Resume: <a href="https://vhm.mytechfolio.live/"> Contact me </a> -->
 
 ### How to reach me:
 
