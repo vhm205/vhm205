@@ -15,14 +15,14 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/vhm205" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/vhm.205" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/vhm205" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/vhm205" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both system design and back-end, with a keen eye for user experience and performance optimization.</h3>**
+ **<h3 align="left">🚀 Passionate coding, creating robust and scalable web applications. Skilled in both system design and back-end, with a keen eye for user experience and performance optimization.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new "secret" platform using React and Deno**
-- 🌱 I'm currently learning: **📚 Exploring System Design**
-- 💬 Ask me about: **💡 Typescript, React, Node.js, MongoDB, PostgreSQL,...**
-- ⚡ Fun fact: ** I’m interested in tech, calisthenics, touring, guitar, muay,...**
+- 🌱 I'm currently learning: **📚 Exploring System Design and AI Agent**
+- 💬 Ask me about: **💡 Typescript, React, Node.js, Python, MongoDB, PostgreSQL,...**
+- ⚡ Fun fact: ** I’m interested in technology, calisthenics, touring, guitar, books,...**
 - 📂 Portfolio: **<a href="https://vhm-cv.vercel.app" target="_blank">https://vhm-cv.vercel.app</a>**
 
  **<h3 align="center">Skills</h3>**
