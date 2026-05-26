@@ -34,10 +34,10 @@
     <td valign="top" width="50%">
       <h3>👨‍💻 Current Status</h3>
       <ul>
-        <li>💼 Working on: <b>React & Deno Platform</b></li>
+        <li>💼 Working on: <b>React/Deno Platform and Second Mind</b></li>
         <li>🌱 Learning: <b>System Design & AI Agents</b></li>
         <li>📂 Portfolio: <a href="https://vhm-cv.vercel.app">vhm-cv.vercel.app</a></li>
-        <li>💬 Ask me about: <b>JS/TS, System Arch, DBs</b></li>
+        <li>💬 Ask me about: <b>Mindsets and technology</b></li>
       </ul>
     </td>
     <td valign="top" width="50%">
